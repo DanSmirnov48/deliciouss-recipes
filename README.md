@@ -15,7 +15,7 @@ Design Changes
 -Menu screen remaind the same, a button for each recipe to do to the details got added incase user needs a quick access to the full recipe page
 -Ingredients recived a number of changes. A better UI now includes an option to manually add ingredients to the shopping list, an option to remove individual ingredients and a button to remove all
 
-Design docs did not include Nutrition page, a finished application does not include this page and can be navigated to by clicking 'Nutrition' on the nav bar
+Design docs did not include Nutrition page, a finished application does now include this page and can be navigated to by clicking 'Nutrition' on the nav bar
 
 Menu and Shopping list are stored in Local storage on users browser
 Reviews and Rating is stored on JSON server and are visible to all users.
