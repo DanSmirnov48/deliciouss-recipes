@@ -1,7 +1,7 @@
 // JSON Server URL for local host
-export const JSON_API = 'http://localhost:8000/api'
+// export const JSON_API = 'http://localhost:8000/api'
 // JSON Server URL for heroku deployment verson
-// export const JSON_API = 'https://deliciouss-recipes.herokuapp.com/api'
+export const JSON_API = 'https://deliciouss-recipes.herokuapp.com/api'
 
 // API KEY one
 // export const SPOONACULAR_API_KEY = 'deb18101437e43d78803e73825ccfbac'
