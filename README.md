@@ -1,4 +1,4 @@
-/src/utils.js stores the api keys and JSON server url
+/src/utils.js stores api keys and JSON server url
 if running from localhost, url should be JSON_API = 'http://localhost:8000/api'
 deployed version should use JSON_API = 'https://deliciouss-recipes.herokuapp.com/api'
 UNCOMMENT THE RELEVANT OPTION AND COMMENT OUT THE ORHER ONE!!!
@@ -11,7 +11,7 @@ navigate to http://localhost:8000/reivews to view the JSON reviews
 application uses external API to fetch recepies. 
 api can only be called 150 times per day.
 /src/utils.js contains 2 keys 
-if while running the app, an alert pops us saying API limit reached, comment out the current SPOONACULAR_API_KEY const and uncomment the other one, app will use the second key to call api!!!
+if while running the app, an alert pops up saying API limit reached, comment out the current SPOONACULAR_API_KEY const and uncomment the other one, app will use the second key to call api!!!
 
 Design Changes
 -Home screen did not recieve any design changes
