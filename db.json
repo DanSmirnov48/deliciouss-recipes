@@ -1,0 +1,76 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 3,
+      "comment": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+      "recipe": 652417
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "comment": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',",
+      "recipe": 652417
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "comment": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. ",
+      "recipe": 652417
+    },
+    {
+      "id": 4,
+      "rating": 2,
+      "comment": "arious versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "recipe": 652417
+    },
+    {
+      "rating": 5,
+      "comment": "these are good",
+      "recipe": 657095,
+      "id": 5
+    },
+    {
+      "rating": 1,
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "recipe": 716298,
+      "id": 6
+    },
+    {
+      "rating": 3,
+      "comment": "not so good",
+      "recipe": 716347,
+      "id": 7
+    },
+    {
+      "rating": 5,
+      "comment": "test",
+      "recipe": 645721,
+      "id": 8
+    },
+    {
+      "rating": 4,
+      "comment": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue",
+      "recipe": 637761,
+      "id": 9
+    },
+    {
+      "rating": 1,
+      "comment": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
+      "recipe": 637761,
+      "id": 10
+    },
+    {
+      "rating": 3,
+      "comment": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo ",
+      "recipe": 647442,
+      "id": 11
+    },
+    {
+      "rating": 5,
+      "comment": "this is absolute garbage",
+      "recipe": 645988,
+      "id": 12
+    }
+  ]
+}
