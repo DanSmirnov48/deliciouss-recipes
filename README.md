@@ -1,12 +1,12 @@
-To run the site, open terminal and make sure it is in the project's directory.
-In the terminal type 'node server' & 'npm start', this will start the server and the application.
-navigate to http://localhost:3000 to view the site
-navigate to http://localhost:8000/reivews to view the JSON reviews
-
 /src/utils.js stores the api keys and JSON server url
 if running from localhost, url should be JSON_API = 'http://localhost:8000/api'
 deployed version should use JSON_API = 'https://deliciouss-recipes.herokuapp.com/api'
 UNCOMMENT THE RELEVANT OPTION AND COMMENT OUT THE ORHER ONE!!!
+
+To run the site, open terminal and make sure it is in the project's directory.
+In the terminal type 'npm i', then 'node server' & 'npm start', this will start the server and the application.
+navigate to http://localhost:3000 to view the site
+navigate to http://localhost:8000/reivews to view the JSON reviews
 
 application uses external API to fetch recepies. 
 api can only be called 150 times per day.
