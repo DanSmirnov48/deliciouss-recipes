@@ -16,14 +16,6 @@ npm start
 navigate to http://localhost:3000 to view the site <br />
 navigate to http://localhost:8000/reivews to view the JSON reviews <br />
 
-### API Note
-application uses external API to fetch recepies & can only be called 150 times per day.
-```sh
-/src/utils.js
-```
-file contains 2 keys, if while running the app, an alert pops up saying API limit reached, comment out the current SPOONACULAR_API_KEY const and uncomment the other one, app will use the second key to call api!!!
-
-<a href="https://ibb.co/mtj5vPW"><img src="https://i.ibb.co/K7PxN8v/carbon.png" alt="carbon" border="0"></a>
 
 ## Features
 
@@ -36,12 +28,7 @@ file contains 2 keys, if while running the app, an alert pops up saying API limi
 - Search nutritional value of an ingredient
 - Reviews are being saved to [json-server](https://www.npmjs.com/package/json-server)
 
-## Design Changes
-- Home screen did not recieve any design changes
-- Search screen got added an aditional select menu for diets, user will be able to filter recipes based on their diets now too.
-- Recipe page recived a number of changes compare to design docs. Minor UI chages like buttons and ingrediets got a new placement on the screen. A few elements got added to the UI. Rating section moved to the bottom and review section which was not on design dosc got added.
-- Menu screen remaind the same, a button for each recipe to do to the details got added incase user needs a quick access to the full recipe page
-- Ingredients recived a number of changes. A better UI now includes an option to manually add ingredients to the shopping list, an option to remove individual ingredients and a button to remove all
+
 
 ### Initail design frames can be found <a href="https://drive.google.com/file/d/1CyIyuuBeVRdjRwvGwIeExC_he9Q9LMlN/view?usp=sharing" target="_blank">here</a>
 ### A deployed application can be found <a href="https://deliciouss-recipes.herokuapp.com" target="_blank">here</a>
